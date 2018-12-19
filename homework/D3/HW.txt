@@ -1,0 +1,47 @@
+Sample Code & 作業內容
+Day3-1 作業
+
+在小量的資料上，我們用眼睛就可以看得出來程式碼是否有跑出我們理想中的結果。請嘗試想像一個你需要的資料結構 (裡面的值是隨機的)，然後用程式碼範例的方法把它變成 DataFrame
+
+
+
+範例：
+
+
+請點擊下方檢視範例參考ipynb檔內容，Day_003-1_HW.ipynb檔
+
+
+
+Day3-2 作業
+
+
+
+1.1. 讀取 txt 檔, 請讀取 text file
+
+https://raw.githubusercontent.com/vashineyu/slides_and_others/master/tutorial/examples/imagenet_urls_examples.txt
+
+1.2 將所提供的 txt 轉成 pandas dataframe
+
+
+
+2. 從所提供的 txt 中的連結讀取圖片，請讀取上面 data frame 中的前 5 張圖片
+
+
+
+請點擊下方檢視範例參考ipynb檔內容，Day_003-2_HW.ipynb檔
+
+
+
+提交提醒：作業有兩個檔案的提交方式，以下兩種方法都可以
+
+
+
+1.用不同檔名分別上傳，然後以最後一題的網址來提交
+
+  Day_003-1_HW.ipynb
+
+  Day_003-2_HW.ipynb
+
+
+
+2.兩個題目手動合併在同個ipynb裡
